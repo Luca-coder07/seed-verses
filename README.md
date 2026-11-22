@@ -1,5 +1,7 @@
 # 🌱 seed-verses
 
+froked initially in leorak98/seed-verses that is not availible anymore
+
 A collaborative, multilingual dataset of short and popular Bible verses in JSON format. Perfect for APIs, IoT, and applications.
 
 ---
@@ -12,9 +14,9 @@ A collaborative, multilingual dataset of short and popular Bible verses in JSON 
 
 ## 🚀 Raw API Usage
 You can fetch the raw JSON files directly via GitHub Raw links for your web developments or ESP32/ESP8266 boards:
-- **Malagasy:** `https://raw.githubusercontent.com/leorak98/seed-verses/main/data/mg/verses.json`
-- **French:** `https://raw.githubusercontent.com/leorak98/seed-verses/main/data/fr/verses.json`
-- **English:** `https://raw.githubusercontent.com/leorak98/seed-verses/main/data/en/verses.json`
+- **Malagasy:** `https://raw.githubusercontent.com/luca-coder07/seed-verses/main/data/mg/verses.json`
+- **French:** `https://raw.githubusercontent.com/luca-coder07/seed-verses/main/data/fr/verses.json`
+- **English:** `https://raw.githubusercontent.com/luca-coder07/seed-verses/main/data/en/verses.json`
 
 ---
 
