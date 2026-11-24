@@ -112,5 +112,65 @@
     "text": "Autrefois vous étiez ténèbres, et maintenant vous êtes lumière dans le Seigneur.",
     "ref": "Éphésiens 5:8",
     "tags": ["lumière", "encouragement"]
+  },
+    {
+    "id": "fr-020",
+    "text": "C'est ma consolation dans ma misère, car ta promesse me rend la vie.",
+    "ref": "Psaumes 119:50",
+    "tags": ["consolation", "encouragement"]
+  },
+  {
+    "id": "fr-021",
+    "text": "Car je connais les projets que j'ai formés sur vous, dit l'Éternel, projets de paix et non de malheur, afin de vous donner un avenir et de l'espérance.",
+    "ref": "Jérémie 29:11",
+    "tags": ["espoir", "paix", "confiance"]
+  },
+  {
+    "id": "fr-022",
+    "text": "Je vous laisse la paix, je vous donne ma paix. Je ne vous donne pas comme le monde donne. Que votre cœur ne se trouble point, et ne s'alarme point.",
+    "ref": "Jean 14:27",
+    "tags": ["paix", "encouragement"]
+  },
+  {
+    "id": "fr-023",
+    "text": "Fortifiez-vous et que votre cœur s'affermisse, vous tous qui espérez en l'Éternel!",
+    "ref": "Psaumes 31:24",
+    "tags": ["force", "espoir"]
+  },
+  {
+    "id": "fr-024",
+    "text": "Il essuiera toute larme de leurs yeux, et la mort ne sera plus, et il n'y aura plus ni deuil, ni cri, ni douleur, car les premières choses ont disparu.",
+    "ref": "Apocalypse 21:4",
+    "tags": ["espoir", "consolation"]
+  },
+  {
+    "id": "fr-025",
+    "text": "Car ce n'est pas un esprit de timidité que Dieu nous a donné, mais un esprit de force, d'amour et de sagesse.",
+    "ref": "2 Timothée 1:7",
+    "tags": ["force", "amour", "encouragement"]
+  },
+  {
+    "id": "fr-026",
+    "text": "Béni soit Dieu, le Père de notre Seigneur Jésus-Christ, le Père des miséricordes et le Dieu de toute consolation.",
+    "ref": "2 Corinthiens 1:3",
+    "tags": ["consolation", "amour"]
+  },
+  {
+    "id": "fr-027",
+    "text": "Les rachetés de l'Éternel retourneront, ils iront à Sion avec chants de triomphe, et une joie éternelle couronnera leur tête; l'allégresse et la joie s'approcheront, la douleur et les gémissements s'enfuiront.",
+    "ref": "Ésaïe 51:11",
+    "tags": ["joie", "espoir"]
+  },
+  {
+    "id": "fr-028",
+    "text": "Nous sommes pressés de toute manière, mais non réduits à l'extrémité; dans la détresse, mais non dans le désespoir; persécutés, mais non abandonnés; abattus, mais non perdus.",
+    "ref": "2 Corinthiens 4:8-9",
+    "tags": ["force", "encouragement"]
+  },
+  {
+    "id": "fr-029",
+    "text": "Je te loue de ce que je suis une créature si merveilleuse. Tes œuvres sont admirables, et mon âme le reconnaît bien.",
+    "ref": "Psaumes 139:14",
+    "tags": ["louange", "encouragement"]
   }
 ]
