@@ -25,19 +25,19 @@
   },
   {
     "id": "mg-005",
-    "text": "Ary amin'izany dia aza manahy ny amin'ny ampitso ianareo;fa ny ampitso hanahy ny azy.",
+    "text": "Ary amin'izany dia aza manahy ny amin'ny ampitso ianareo; fa ny ampitso hanahy ny azy.",
     "ref": "Matio 6:34",
     "tags": ["fankaherezana", "fiadanana"]
   },  
   {
     "id": "mg-006",
-    "text": "Tsara ny mahazo fahendrena noho ny volamena,Ary tsara ny mahazo fahalalana noho ny volafotsy.",
+    "text": "Tsara ny mahazo fahendrena noho ny volamena, Ary tsara ny mahazo fahalalana noho ny volafotsy.",
     "ref": "Ohabolana 16:16",
     "tags": ["fahendrena", "fahalalana"]
   },
   {
     "id": "mg-007",
-    "text": "Ary Jehovah hitari-dalana anao mandrakariva sady hahavoky ny fanahinao ao ami'ny tany karankaina...",
+    "text": "Ary Jehovah hitari-dalana anao mandrakariva sady hahavoky ny fanahinao ao amin'ny tany karankaina...",
     "ref": "Isaia 58:11",
     "tags": ["fankaherezana", "hery"]
   },
@@ -79,7 +79,7 @@
   },
   {
     "id": "mg-014",
-    "text": "Midera Anao aho; fa mahatahotra sy talanjona ny fanaonao.",
+    "text": "Midera Anao aho; fa mahatahotra sy talanjona ny asanao.",
     "ref": "Salamo 139:14",
     "tags": ["fisaorana", "fankaherezana"]
   },
@@ -92,7 +92,7 @@
   {
     "id": "mg-016",
     "text": "Ny famonjena dia avy amin'ny Tompo.",
-    "ref": "Jona 2:10",
+    "ref": "Jona 2:9",
     "tags": ["famonjena", "toky"]
   },
   {
@@ -112,5 +112,35 @@
     "text": "Fa maizina ianareo fahiny, fa efa mazava ao amin'ny Tompo kosa ankehitriny.",
     "ref": "Efesiana 5:8",
     "tags": ["fahazavana", "fankaherezana"]
+  },
+  {
+    "id": "mg-020",
+    "text": "Hidera Anao aho; fa mahatahotra sy mahatalanjona ny nanaovana ahy; Mahagaga ny asanao; Ary fantatry ny fanahiko marimarina izany.",
+    "ref": "Salamo 139:14",
+    "tags": ["fisaorana", "fankaherezana"]
+  },
+  {
+    "id": "mg-021",
+    "text": "Eny, ny navotan’ i Jehovah hiverina ka hankany Ziona amin’ ny fihobiana, ary ny fifaliana mandrakizay no ho eny an-dohany; hahazo fifaliana faharavoravoana izy, ka dia handositra ny alahelo sy ny fisentoana.",
+    "ref": "Isaia 51:11",
+    "tags": ["hafaliana", "fanantenana"]
+  },
+  {
+    "id": "mg-022",
+    "text": "Isaorana anie Andriamanitra, Rain’ i Jesosy Kristy Tompontsika, Rain’ ny famindram-po sady Andriamanitry ny fampiononana rehetra,",
+    "ref": "2 Korintiana 1:3",
+    "tags": ["fampiononana", "fitiavana"]
+  },
+  {
+    "id": "mg-023",
+    "text": "Fa tsy nomen’ Andriamanitra fanahy osa isika, fa fanahy mahery sy fitiavana ary fahononan-tena.",
+    "ref": "2 Timoty 1:7",
+    "tags": ["hery", "fitiavana", "fankaherezana"]
+  },
+  {
+    "id": "mg-024",
+    "text": "Voageja manodidina izahay, nefa tsy terỳ; very hevitra, nefa tsy mamoy fo;",
+    "ref": "2 Korintiana 4:8",
+    "tags": ["hery", "fankaherezana"]
   }
 ]
